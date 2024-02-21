@@ -28,5 +28,4 @@ public class TrabajoPintura extends Servicio{
                 "\n----------------------------------------\nPintor: " + this.Trabajador + "\nCoste material..... " +
                 this.costeMaterial() + "\nCoste mano obra.... " + this.costeManoObra() + "\nTOTAL.............. " + this.costeTotal();
     }
-    }
 }
